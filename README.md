@@ -1,4 +1,4 @@
-# projrcts
+# projects
 My projects
 - [Bulionniy Maniak](https://marynafedotova.github.io/bulionniy_maniak/)
 - [SJ Design](https://marynafedotova.github.io/SJDesign/)
